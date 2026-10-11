@@ -4,6 +4,11 @@
   "displayName": "SwapLines",
   "description": "Quickly swap two lines of code using a keyboard shortcut.",
   "version": "0.0.1",
+  "publisher": "d3j1x",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3j1x/SwapLines.git"
+  },
   "engines": {
     "vscode": "^1.140.0"
   },
